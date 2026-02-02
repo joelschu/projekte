@@ -1,4 +1,5 @@
 <script>
+    import { base } from '$app/paths';
     export let projectInfo;
 </script>
 
@@ -13,7 +14,7 @@
         <p class="description-header">
                 Über das Projekt
             </p>
-            <p class="back-symbol"><a href="/">
+            <p class="back-symbol"><a href="/{base}">
         Zurück &#10005;
             </a>
         </p>

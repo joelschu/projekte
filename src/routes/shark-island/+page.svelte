@@ -12,7 +12,7 @@
         collaborators: 'Agata Nguyen Chuong<br>& Ashkan Cheheltan'
     };
     export let items = [
-        { image: 'src/lib/assets/proj3-img-cover.jpg', title: 'Karte von Shark Island mit Konzentrationslagerstrukturen in rot', titleEng: 'Map of Shark Island with concentration camp structures in red', id: 1, isHovered: false }
+        { image: 'assets/proj3-img-cover.jpg', title: 'Karte von Shark Island mit Konzentrationslagerstrukturen in rot', titleEng: 'Map of Shark Island with concentration camp structures in red', id: 1, isHovered: false }
     ]
 </script>
 

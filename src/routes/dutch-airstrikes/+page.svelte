@@ -12,9 +12,9 @@
         collaborators: 'Megan Karlshoej-Pedersen<br>& Clive Vella'
     };
     export let items = [
-        { image: 'src/lib/assets/proj6-img1.jpg', title: 'Overview of strikes in Iraq and Syria', id: 1, isHovered: false },
-        { image: 'src/lib/assets/proj6-img2.jpg', title: 'Analyse von niederländischen Angriffen und Airwars-Archivdaten für Hajin', id: 2, isHovered: false },
-        { image: 'src/lib/assets/proj6-img3.jpg', title: 'Analyse von niederländischen Angriffen und Airwars-Archivdaten für Aski Mosul', id: 3, isHovered: false }
+        { image: 'assets/proj6-img1.jpg', title: 'Overview of strikes in Iraq and Syria', id: 1, isHovered: false },
+        { image: 'assets/proj6-img2.jpg', title: 'Analyse von niederländischen Angriffen und Airwars-Archivdaten für Hajin', id: 2, isHovered: false },
+        { image: 'assets/proj6-img3.jpg', title: 'Analyse von niederländischen Angriffen und Airwars-Archivdaten für Aski Mosul', id: 3, isHovered: false }
     ]
 </script>
 

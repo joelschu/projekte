@@ -11,10 +11,10 @@
         linkName: 'Forensic Architecture'
     };
     export let items = [
-        { image: 'src/lib/assets/proj5-img-cover.jpg', title: 'Map Eurasia', id: 1, isHovered: false },
-        { image: 'src/lib/assets/proj5-img2.jpg', title: 'Map Eurasia', id: 1, isHovered: false },
-        { image: 'src/lib/assets/proj5-img3.jpg', title: 'Map Eurasia', id: 1, isHovered: false },
-        { image: 'src/lib/assets/proj5-img4.jpg', title: 'Map Eurasia', id: 1, isHovered: false }
+        // { image: 'assets/proj5-img-cover.jpg', title: 'Map Eurasia', id: 1, isHovered: false },
+        // // { image: 'assets/proj5-img2.jpg', title: 'Map Eurasia', id: 1, isHovered: false },
+        // { image: 'assets/proj5-img3.jpg', title: 'Map Eurasia', id: 1, isHovered: false },
+        // { image: 'assets/proj5-img4.jpg', title: 'Map Eurasia', id: 1, isHovered: false }
     ]
 </script>
 

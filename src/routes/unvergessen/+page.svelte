@@ -12,8 +12,8 @@
         collaborators: 'Charlotte Flügger'
     };
     export let items = [
-        { image: 'src/lib/assets/proj7-vid1.mov', title: 'video-grabstein', id: 1, isHovered: false },
-        { image: 'src/lib/assets/proj7-vid1.mov', title: 'video-grabstein', id: 2, isHovered: false }
+        { image: 'assets/proj7-vid1.mov', title: 'video-grabstein', id: 1, isHovered: false },
+        { image: 'assets/proj7-vid1.mov', title: 'video-grabstein', id: 2, isHovered: false }
     ]
 </script>
 

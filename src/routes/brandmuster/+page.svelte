@@ -11,12 +11,12 @@
         linkName: 'brandmuster.info'
     };
     export let items = [
-        { image: 'src/lib/assets/proj1-img1.jpg', title: 'Image 1' },
-        { image: 'src/lib/assets/proj1-img2.jpg', title: 'Image 2' },
-        { image: 'src/lib/assets/proj1-img-cover.jpg', title: 'Image 3' },
-        { image: 'src/lib/assets/proj1-img-cover.jpg', title: 'Image 4' },
-        { image: 'src/lib/assets/proj1-img-cover.jpg', title: 'Image 5' },
-        { image: 'src/lib/assets/proj1-img-cover.jpg', title: 'Image 6' }
+        { image: 'assets/proj1-img1.jpg', title: 'Image 1' },
+        { image: 'assets/proj1-img2.jpg', title: 'Image 2' },
+        { image: 'assets/proj1-img-cover.jpg', title: 'Image 3' },
+        { image: 'assets/proj1-img-cover.jpg', title: 'Image 4' },
+        { image: 'assets/proj1-img-cover.jpg', title: 'Image 5' },
+        { image: 'assets/proj1-img-cover.jpg', title: 'Image 6' }
     ]
 </script>
 

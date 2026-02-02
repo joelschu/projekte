@@ -13,10 +13,10 @@
         collaborators: 'Charlotte Flügger',
     };
     export let items = [
-        { image: 'src/lib/assets/proj4-img1.jpg', title: 'Status Quo vs Intervention', id: 1, isHovered: false },
-        { image: 'src/lib/assets/proj4-img2.jpg', title: 'Konzept der Boje', id: 2, isHovered: false },
-        { image: 'src/lib/assets/proj4-img-cover.jpg', title: 'Mittlmeer und die europäische Küste', id: 3, isHovered: false },
-        { image: 'src/lib/assets/proj4-img4.jpg', title: 'Die Boje', id: 4, isHovered: false }
+        { image: 'assets/proj4-img1.jpg', title: 'Status Quo vs Intervention', id: 1, isHovered: false },
+        { image: 'assets/proj4-img2.jpg', title: 'Konzept der Boje', id: 2, isHovered: false },
+        { image: 'assets/proj4-img-cover.jpg', title: 'Mittlmeer und die europäische Küste', id: 3, isHovered: false },
+        { image: 'assets/proj4-img4.jpg', title: 'Die Boje', id: 4, isHovered: false }
     ]
 
 </script>
