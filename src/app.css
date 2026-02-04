@@ -2,13 +2,13 @@
 
 @font-face {
     font-family: Ronzino;
-    src: url('/fonts/Ronzino-Medium.woff2') format('woff2');
+    src: url('fonts/Ronzino-Medium.woff2') format('woff2');
     font-weight: 500;
 }
 
 @font-face {
     font-family: Ronzino;
-    src: url('/fonts/Ronzino-Regular.woff2') format('woff2');
+    src: url('fonts/Ronzino-Regular.woff2') format('woff2');
     font-weight: 300;
 }
 
